@@ -11,5 +11,6 @@ namespace RealisationMVCPattern.Models
         public string Name { get; set; }
         public string Company { get; set; }
         public int Price { get; set; }
+        public int Memory { get; set; }
     }
 }

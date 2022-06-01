@@ -76,3 +76,5 @@ G:\projects\RealisationMVCPattern\RealisationMVCPattern\bin\Debug\netcoreapp3.1\
 G:\projects\RealisationMVCPattern\RealisationMVCPattern\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 G:\projects\RealisationMVCPattern\RealisationMVCPattern\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 G:\projects\RealisationMVCPattern\RealisationMVCPattern\obj\Debug\netcoreapp3.1\Razor\Views\Home\Buy.cshtml.g.cs
+G:\projects\RealisationMVCPattern\RealisationMVCPattern\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\projects\RealisationMVCPattern\RealisationMVCPattern\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
